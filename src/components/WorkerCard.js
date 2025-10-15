@@ -1,0 +1,1 @@
+export default function WorkerCard(){ return <div>Worker Card</div>; }
