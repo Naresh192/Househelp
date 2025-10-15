@@ -1,0 +1,1 @@
+export default function WorkerRegistration(){ return <div>Worker Registration</div>; }
